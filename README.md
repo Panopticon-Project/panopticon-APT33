@@ -53,3 +53,7 @@ https://en.radiofarda.com/a/microsoft-details-sophisticated-hacking-linked-to-ir
 https://threatconnect.com/blog/research-roundup-activity-on-previously-identified-apt33-domains/
 
 https://www.securityweek.com/iranian-hackers-caused-losses-hundreds-millions-report
+
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+
+https://dragos.com/resource/magnallium/
