@@ -51,3 +51,5 @@ https://blog.telsy.com/meeting-powerband-the-apt33-net-powerton-variant/
 https://en.radiofarda.com/a/microsoft-details-sophisticated-hacking-linked-to-iranian-cyber-espionage-group/30689747.html
 
 https://threatconnect.com/blog/research-roundup-activity-on-previously-identified-apt33-domains/
+
+https://www.securityweek.com/iranian-hackers-caused-losses-hundreds-millions-report
